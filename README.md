@@ -11,3 +11,10 @@ Packages:
 * araddon/dateparse - github.com/araddon/dateparse
 * github.com/extrame/xls - github.com/extrame/xls
 * tushar2708/altcsv - github.com/tushar2708/altcsv
+
+
+## How to build
+use the make file
+```
+make package
+```
